@@ -1,2 +1,2 @@
 # shop.bot
-homework Codify
+Homework for Codify
